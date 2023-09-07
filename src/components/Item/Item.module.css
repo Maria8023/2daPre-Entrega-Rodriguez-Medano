@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cardItem{
+    background-color: rgb(253, 249, 250);
+    height: 600px;
+    width: 400px;
+    border-radius: 8px;
+    margin-top: 50px;
+    margin-left: 650px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.itemHeader{
+    font-size: 30px;
+    font-family: 'Prompt', sans-serif;
+}
+.img{
+    height: 350px;
+    width: 100%;
+}

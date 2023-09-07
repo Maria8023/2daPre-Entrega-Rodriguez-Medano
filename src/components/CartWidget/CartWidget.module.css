@@ -1,0 +1,14 @@
+.buttonCarro {
+    margin-top: 15px;
+    color: #c46ee6;
+    background-color: #F9F871;
+    font-family: 'Prompt', sans-serif;
+    border-color: #CCF27F;
+}
+
+
+.carrito {
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+}
